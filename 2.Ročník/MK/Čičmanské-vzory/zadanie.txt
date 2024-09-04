@@ -1,0 +1,3 @@
+Na olympiáde v roku 2014 mali naši športovci na oblečení vzory z čičmanských dreveníc. 
+Nájdite na internete takéto vzory, vyberte si minimálne 3 a nakreslite ich v radoch pod sebou pomocou cyklu FOR. 
+Kto ich umiestni na domček, dostane prémiový bod.
