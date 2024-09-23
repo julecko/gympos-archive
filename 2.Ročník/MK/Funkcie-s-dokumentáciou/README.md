@@ -1,2 +1,0 @@
-# Poznámky k úlohe
-- Pri tejto úlohe neviem čo dodať, jedine čo, neviem čo bolo myslené okomentovaním funckie, ako čo, pár premmených + výpočet, jedno if else, nič špeciálne, čiže jedine toto treba obkecať nejak, napríklad k if statementu bude komentár "Toto je if statement" alebo niečo také.
